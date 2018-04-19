@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="action_button_min_width">56dp</dimen>
+    <dimen name="indeterminate_progress_size">32dp</dimen>
+    <dimen name="title">40sp</dimen>
+    <dimen name="imgTitle">150dp</dimen>
+    <dimen name="imgQuestion">300dp</dimen>
+    <dimen name="imgQuestion2">250dp</dimen>
+    <dimen name="subTitle">30sp</dimen>
+    <dimen name="question">20sp</dimen>
+    <dimen name="pad">20dp</dimen>
+    <dimen name="pad2">10dp</dimen>
+    <dimen name="pad3">50dp</dimen>
+</resources>
